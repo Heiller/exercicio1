@@ -1,2 +1,2 @@
 # exercicio1
-Exercicio 1 atividade de programação Web
+Este repositório está sendo dedicado a atividade de programação web feito no dia 04/10/2020
